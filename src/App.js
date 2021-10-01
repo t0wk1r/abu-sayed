@@ -85,9 +85,11 @@ function App() {
                       <div class="col-12 col-lg-7 info-content">
                         <div class="content-block">
                           <h2 class="content-subtitle">Who am i?</h2>
-                          <h6 class="content-title">I'm Abu Sayed, a visual UX/UI Designer and Web Developer</h6>
+                          <h6 class="content-title">I'm Abu Sayed, a Software Designer and Developer</h6>
                           <div class="content-description">
-                            <p>I am a freelancer based in the United Kingdom and i have been building noteworthy UX/UI designs and websites for years, which comply with the latest design trends. I help convert a vision and an idea into meaningful and useful products. Having a sharp eye for product evolution helps me prioritize tasks, iterate fast and deliver faster.</p>
+                            <p>I am professional Software developer. I worked with many type of Software making.
+
+                              I am a hard-working, reliable freelance web developer and Software developer. I love being in this line of work because I am passionate about technology, design, and innovation. I like doing freelance work because it gives me the freedom to choose when and how often I work. Do you need a high-quality clean coded WordPress website Or Software? I will help you with that.</p>
                           </div>
                           <address class="content-info">
                             <div class="row">
