@@ -80,7 +80,7 @@ function App() {
                   <div class="info-section single-section">
                     <div class="row align-items-center">
 
-                      <div class="col-12 col-lg-5 info-img"><img class="img-fluid img-thumbnail" src="assets/img/info-img.jpg" alt="About Picture" /></div>
+                      <div class="col-12 col-lg-5 info-img"><img class="img-fluid img-thumbnail" src="assets/img/info-img.png" alt="About Picture" /></div>
 
                       <div class="col-12 col-lg-7 info-content">
                         <div class="content-block">
