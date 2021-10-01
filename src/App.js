@@ -15,7 +15,7 @@ function App() {
 
         <nav class="navbar-expand-md navbar fixed-top" id="navbar"><a class="navbar-brand" data-scroll="" href="#home-area">
 
-          <img class="img-fluid" src="img/img-kitzu-logo.png" alt="Logo" /></a>
+          <img class="img-fluid" src="assets/img/img-kitzu-logo.png" alt="Logo" /></a>
           <span class="navbar-menu ml-auto" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" role="button"><span class="btn-line"></span></span>
           <div class="collapse navbar-collapse order-1 order-lg-0" id="navbarSupportedContent">
 
@@ -29,7 +29,7 @@ function App() {
           </div>
         </nav>
 
-        <section class="home-area element-cover-bg" id="home" style={{ backgroundImage: 'url(img/home.jpg)' }}>
+        <section class="home-area element-cover-bg" id="home" style={{ backgroundImage: 'url(assets/img/home.jpg)' }}>
           <div class="container h-100">
             <div class="row h-100 align-items-center justify-content-center">
               <div class="col-12 col-lg-8 home-content text-center">
@@ -80,7 +80,7 @@ function App() {
                   <div class="info-section single-section">
                     <div class="row align-items-center">
 
-                      <div class="col-12 col-lg-5 info-img"><img class="img-fluid img-thumbnail" src="img/info-img.jpg" alt="About Picture" /></div>
+                      <div class="col-12 col-lg-5 info-img"><img class="img-fluid img-thumbnail" src="assets/img/info-img.jpg" alt="About Picture" /></div>
 
                       <div class="col-12 col-lg-7 info-content">
                         <div class="content-block">
@@ -191,7 +191,7 @@ function App() {
                         <div class="single-review swiper-slide">
                           <div class="review-header d-flex justify-content-between">
                             <div class="review-client">
-                              <div class="media"><img class="img-fluid rounded-circle client-avatar" src="img/client-1.jpg" alt="Client" />
+                              <div class="media"><img class="img-fluid rounded-circle client-avatar" src="assets/img/client-1.jpg" alt="Client" />
                                 <div class="client-details">
                                   <h6 class="client-name">Julia Sakura</h6><span class="client-role">Envato Customer</span>
                                 </div>
@@ -206,7 +206,7 @@ function App() {
                         <div class="single-review swiper-slide">
                           <div class="review-header d-flex justify-content-between">
                             <div class="review-client">
-                              <div class="media"><img class="img-fluid rounded-circle client-avatar" src="img/client-2.jpg" alt="Client" />
+                              <div class="media"><img class="img-fluid rounded-circle client-avatar" src="assets/img/client-2.jpg" alt="Client" />
                                 <div class="client-details">
                                   <h6 class="client-name">John Santana</h6><span class="client-role">Entrepreneur</span>
                                 </div>
@@ -221,7 +221,7 @@ function App() {
                         <div class="single-review swiper-slide">
                           <div class="review-header d-flex justify-content-between">
                             <div class="review-client">
-                              <div class="media"><img class="img-fluid rounded-circle client-avatar" src="img/client-3.jpg" alt="Client" />
+                              <div class="media"><img class="img-fluid rounded-circle client-avatar" src="assets/img/client-3.jpg" alt="Client" />
                                 <div class="client-details">
                                   <h6 class="client-name">Maria Wilson</h6><span class="client-role">Envato Customer</span>
                                 </div>
@@ -460,7 +460,7 @@ function App() {
                     <div class="portfolio-grid row">
 
                       <div class="single-item col-6 col-lg-4 design"><a class="portfolio-item" href="img/item-1.jpg" data-lightbox>
-                        <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="img/item-1.jpg" />
+                        <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="assets/img/item-1.jpg" />
                           <div class="item-content">
                             <h6 class="content-title">Label Tag Mockup</h6><span class="content-more">More Info</span>
                           </div>
@@ -468,7 +468,7 @@ function App() {
                       </a></div>
 
                       <div class="single-item col-6 col-lg-4 photos"><a class="portfolio-item" href="img/item-2.jpg" data-lightbox>
-                        <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="img/item-2.jpg" />
+                        <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="assets/img/item-2.jpg" />
                           <div class="item-content">
                             <h6 class="content-title">3D Bag Mockup</h6><span class="content-more">More Info</span>
                           </div>
@@ -476,7 +476,7 @@ function App() {
                       </a></div>
 
                       <div class="single-item col-6 col-lg-4 design"><a class="portfolio-item" href="img/item-3.jpg" data-lightbox>
-                        <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="img/item-3.jpg" />
+                        <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="assets/img/item-3.jpg" />
                           <div class="item-content">
                             <h6 class="content-title">Modern Bag Design</h6><span class="content-more">More Info</span>
                           </div>
@@ -484,7 +484,7 @@ function App() {
                       </a></div>
 
                       <div class="single-item col-6 col-lg-4 brand"><a class="portfolio-item" href="img/item-4.jpg" data-lightbox>
-                        <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="img/item-4.jpg" />
+                        <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="assets/img/item-4.jpg" />
                           <div class="item-content">
                             <h6 class="content-title">Coffee Cup Design</h6><span class="content-more">More Info</span>
                           </div>
@@ -492,7 +492,7 @@ function App() {
                       </a></div>
 
                       <div class="single-item col-6 col-lg-4 brand"><a class="portfolio-item" href="img/item-5.jpg" data-lightbox>
-                        <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="img/item-5.jpg" />
+                        <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="assets/img/item-5.jpg" />
                           <div class="item-content">
                             <h6 class="content-title">T-Shirt Design</h6><span class="content-more">More Info</span>
                           </div>
@@ -500,7 +500,7 @@ function App() {
                       </a></div>
 
                       <div class="single-item col-6 col-lg-4 photos"><a class="portfolio-item" href="img/item-6.jpg" data-lightbox>
-                        <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="img/item-6.jpg" />
+                        <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="assets/img/item-6.jpg" />
                           <div class="item-content">
                             <h6 class="content-title">Packaging Box Mockup</h6><span class="content-more">More Info</span>
                           </div>
@@ -536,7 +536,7 @@ function App() {
                     <div class="row justify-content-center">
 
                       <div class="col-12 col-sm-8 col-lg-4">
-                        <div class="card single-post"><a class="post-img" href="#0"><img class="card-img-top" src="img/post-1.jpg" alt="Blog post" /><span class="content-date">11 Dec, 20</span></a>
+                        <div class="card single-post"><a class="post-img" href="#0"><img class="card-img-top" src="assets/img/post-1.jpg" alt="Blog post" /><span class="content-date">11 Dec, 20</span></a>
                           <div class="card-body post-content"><a href="#0">
                             <h5 class="card-title content-title">Top tools for Photographers</h5>
                           </a>
@@ -546,7 +546,7 @@ function App() {
                       </div>
 
                       <div class="col-12 col-sm-8 col-lg-4">
-                        <div class="card single-post"><a class="post-img" href="#0"><img class="card-img-top" src="img/post-2.jpg" alt="Blog post" /><span class="content-date">12 Aug, 20</span></a>
+                        <div class="card single-post"><a class="post-img" href="#0"><img class="card-img-top" src="assets/img/post-2.jpg" alt="Blog post" /><span class="content-date">12 Aug, 20</span></a>
                           <div class="card-body post-content"><a href="#0">
                             <h5 class="card-title content-title">Take a tour of my office</h5>
                           </a>
@@ -556,7 +556,7 @@ function App() {
                       </div>
 
                       <div class="col-12 col-sm-8 col-lg-4">
-                        <div class="card single-post"><a class="post-img" href="#0"><img class="card-img-top" src="img/post-3.jpg" alt="Blog post" /><span class="content-date">4 Feb, 20</span></a>
+                        <div class="card single-post"><a class="post-img" href="#0"><img class="card-img-top" src="assets/img/post-3.jpg" alt="Blog post" /><span class="content-date">4 Feb, 20</span></a>
                           <div class="card-body post-content"><a href="#0">
                             <h5 class="card-title content-title">How i became a Web Designer</h5>
                           </a>
@@ -565,7 +565,7 @@ function App() {
                         </div>
                       </div>
                       <div class="col-12 col-sm-8 col-lg-4">
-                        <div class="card single-post"><a class="post-img" href="#0"><img class="card-img-top" src="img/post-4.jpg" alt="Blog post" /><span class="content-date">11 Dec, 19</span></a>
+                        <div class="card single-post"><a class="post-img" href="#0"><img class="card-img-top" src="assets/img/post-4.jpg" alt="Blog post" /><span class="content-date">11 Dec, 19</span></a>
                           <div class="card-body post-content"><a href="#0">
                             <h5 class="card-title content-title">How to improve work performance</h5>
                           </a>
@@ -575,7 +575,7 @@ function App() {
                       </div>
 
                       <div class="col-12 col-sm-8 col-lg-4">
-                        <div class="card single-post"><a class="post-img" href="#0"><img class="card-img-top" src="img/post-5.jpg" alt="Blog post" /><span class="content-date">15 Nov, 19</span></a>
+                        <div class="card single-post"><a class="post-img" href="#0"><img class="card-img-top" src="assets/img/post-5.jpg" alt="Blog post" /><span class="content-date">15 Nov, 19</span></a>
                           <div class="card-body post-content"><a href="#0">
                             <h5 class="card-title content-title">How to work from home</h5>
                           </a>
@@ -585,7 +585,7 @@ function App() {
                       </div>
 
                       <div class="col-12 col-sm-8 col-lg-4">
-                        <div class="card single-post"><a class="post-img" href="#0"><img class="card-img-top" src="img/post-6.jpg" alt="Blog post" /><span class="content-date">8 Aug, 19</span></a>
+                        <div class="card single-post"><a class="post-img" href="#0"><img class="card-img-top" src="assets/img/post-6.jpg" alt="Blog post" /><span class="content-date">8 Aug, 19</span></a>
                           <div class="card-body post-content"><a href="#0">
                             <h5 class="card-title content-title">How to enjoy your business trip</h5>
                           </a>
