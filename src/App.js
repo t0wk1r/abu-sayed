@@ -111,11 +111,11 @@ function App() {
                           </address>
                           <div class="d-block d-sm-flex align-items-center"><a class="btn content-download button-main button-scheme" href="#0" role="button">Download CV</a>
                             <ul class="list-unstyled list-inline content-follow">
-                              <li class="list-inline-item"><a href="#0"><i class="icon ion-logo-twitter"></i></a></li>
-                              <li class="list-inline-item"><a href="#0"><i class="icon ion-logo-instagram"></i></a></li>
-                              <li class="list-inline-item"><a href="#0"><i class="icon ion-logo-linkedin"></i></a></li>
-                              <li class="list-inline-item"><a href="#0"><i class="icon ion-logo-github"></i></a></li>
-                              <li class="list-inline-item"><a href="#0"><i class="icon ion-logo-facebook"></i></a></li>
+                              <li class="list-inline-item"><a href="https://twitter.com/t0wk1r"><i class="icon ion-logo-twitter"></i></a></li>
+                              <li class="list-inline-item"><a href="https://www.instagram.com/t0wk1r/"><i class="icon ion-logo-instagram"></i></a></li>
+                              <li class="list-inline-item"><a href="https://www.linkedin.com/in/t0wk1r"><i class="icon ion-logo-linkedin"></i></a></li>
+                              <li class="list-inline-item"><a href="https://github.com/t0wk1r"><i class="icon ion-logo-github"></i></a></li>
+                              <li class="list-inline-item"><a href="https://www.facebook.com/t0wk1r/"><i class="icon ion-logo-facebook"></i></a></li>
                             </ul>
                           </div>
                         </div>
