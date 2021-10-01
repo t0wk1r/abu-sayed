@@ -49,11 +49,11 @@ function App() {
 
             <div class="fixed-block block-right">
               <ul class="list-unstyled social-icons">
-                <li><a href="#0"><i class="icon ion-logo-twitter"></i></a></li>
-                <li><a href="#0"><i class="icon ion-logo-facebook"></i></a></li>
-                <li><a href="#0"><i class="icon ion-logo-linkedin"></i></a></li>
-                <li><a href="#0"><i class="icon ion-logo-github"></i></a></li>
-                <li><a href="#0"><i class="icon ion-logo-instagram"></i></a></li>
+                <li><a href="https://twitter.com/t0wk1r"><i class="icon ion-logo-twitter"></i></a></li>
+                <li><a href="https://www.facebook.com/t0wk1r/"><i class="icon ion-logo-facebook"></i></a></li>
+                <li><a href="https://linkedin.com/in/t0wk1r"><i class="icon ion-logo-linkedin"></i></a></li>
+                <li><a href="https://github.com/t0wk1r"><i class="icon ion-logo-github"></i></a></li>
+                <li><a href="https://www.instagram.com/t0wk1r/"><i class="icon ion-logo-instagram"></i></a></li>
               </ul>
             </div>
           </div>
