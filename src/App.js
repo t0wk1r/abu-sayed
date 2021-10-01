@@ -15,7 +15,7 @@ function App() {
 
         <nav class="navbar-expand-md navbar fixed-top" id="navbar"><a class="navbar-brand" data-scroll="" href="#home-area">
 
-          <img class="img-fluid" src="assets/img/img-kitzu-logo.png" alt="Logo" /></a>
+          <img class="img-fluid" src="assets/img/towkirlogo.gif" alt="Logo" /></a>
           <span class="navbar-menu ml-auto" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" role="button"><span class="btn-line"></span></span>
           <div class="collapse navbar-collapse order-1 order-lg-0" id="navbarSupportedContent">
 
